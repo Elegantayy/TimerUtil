@@ -1,7 +1,7 @@
 name: TimerUtil
 version: 1.0
 author: Brunflo
-main: me.brunflo.timer.Main
+main: me.elegant.timer.Main
 commands:
   logout:
   sotw:
