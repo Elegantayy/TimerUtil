@@ -1,6 +1,6 @@
 name: TimerUtil
 version: 1.0
-author: Brunflo
+author: Elegant
 main: me.elegant.timer.Main
 commands:
   logout:
